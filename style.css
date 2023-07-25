@@ -18,10 +18,6 @@ nav{
     width: auto;
 }
 
-.link-ele{    
-    text-decoration: none; 
-    margin-top: 1.5rem;  
-}
 
 .profile{
     width: 100%;
@@ -66,8 +62,9 @@ nav{
     color: #37b3ed;
 }
 
-.colorme{
-    color:aliceblue;
+.nav-item a {
+    color: #fff;
+    margin-top: 1.5rem;
 }
 
 .active a{
